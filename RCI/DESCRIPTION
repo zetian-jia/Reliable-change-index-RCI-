@@ -1,0 +1,10 @@
+Package: RCI
+Type: Package
+Title: Reliable Change Index (RCI)
+Version: 0.1.0
+Author: Zetian Jia
+Maintainer: Zetian Jia <jztneurosurgery@hotmail.com>
+Description: The RCI package can be used to calculate the credibility change index. Results greater than 1.96 were considered P < 0.05 (95% confidence interval) and results greater than 1.67 were considered P < 0.05 (90% confidence interval)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
